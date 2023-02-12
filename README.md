@@ -1,6 +1,12 @@
 # Static-site-webpack-TY
 
-Сценарий сборки верстки статического сайта с помощью `Webpack`.
+![Webpack](https://raw.githubusercontent.com/Harrix/static-site-webpack-habr/master/img/featured-image.png)
+
+Демонстрация сборки HTML страниц (или статического сайта) с помощью `Webpack`.
+
+Статья (в ней прописан устаревший [вариант](https://github.com/Harrix/static-site-webpack-habr/releases/tag/v1.0)) [https://habr.com/post/350886](https://habr.com/post/350886/).
+
+Новая статьи [article.md](https://github.com/Harrix/static-site-webpack-habr/blob/master/docs/article.md) (в процессе написания).
 
 Лицензия: [MIT](https://github.com/Harrix/static-site-webpack-habr/blob/master/LICENSE.md).
 
@@ -13,4 +19,8 @@
 
 ## Автор
 
-Автор: Tymofii Yermak
+Автор: Сергиенко Антон Борисович.
+
+<!-- С автором можно связаться по адресу [sergienkoanton@mail.ru](mailto:sergienkoanton@mail.ru) или [http://vk.com/harrix](http://vk.com/harrix).
+
+Сайт автора с последними новостями: [http://blog.harrix.org](http://blog.harrix.org), а проекты располагаются по адресу: [https://harrix.dev](https://harrix.dev). -->
